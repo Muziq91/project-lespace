@@ -95,8 +95,8 @@ Instructions:
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Frontend template:
+		HTML5 UP (https://html5up.net/)
 
 	Icons:
 		Font Awesome (fontawesome.io)
